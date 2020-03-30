@@ -1,0 +1,75 @@
+### Site Settings ###
+title               : Shashank Priyadarshi
+description         : >-
+                      "I turn coffee :coffee: into code,
+                      use tabs over spaces"
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : robustTechie.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : robustTechie/robustTechie.github.io
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+ 
+
+### Author Info ###
+author:
+  name              : Shashank Priyadarshi
+  image             : assets/profileImg1.jpg
+# behance           : your_username
+# dribbble          : your_username
+  email             : s.priyadarshi629@gmail.com
+  github            : robustTechie
+  gitlab            : robustTechie
+  linkedin          : robusttechie
+  twitter           : robustTechie
+  facebook          : shashank629
+  instagram         : __.shashank
+  
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+                              
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
