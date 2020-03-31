@@ -2,7 +2,7 @@
 title               : Shashank Priyadarshi
 description         : >-
                       "I turn coffee :coffee: into code,
-                      use tabs over spaces"
+                      use tabs over spaces" <br> <br> Android Developer <br>Open source enthusiast <br> <a href = "https://www.amrita.edu/"> Student at Amrita Vishwa Vidyapeetham</a> <br>  <a href="https://amfoss.in/" title = "amFOSS"> Member at amFOSS</a> <br> <a href="https://robusttechie.github.io/docs/cv.pdf" title="Open my CV">Check out my CV</a>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : robustTechie.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : robustTechie/portfolYOU
