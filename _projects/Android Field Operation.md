@@ -1,6 +1,7 @@
 ---
-name: MomentO
-tools: [Java, Netbeans, Desktop App]
-description: This is desktop application based on Java. With the help of this application one can find the Moment of inertia and centre of Mass of a given random figure about any axis or any point defined by the user. It provides some basic shapes like rectangular channel, triangular channel, and a user can also define a new shape.
-external_url: https://github.com/robustTechie/MomentO
+name: Android Field Operation
+tools: [Java, , Mifos X, The Mifos Initiative, XML, Android App]
+description: Field Officer Application is an application developed for the Bank staff field officer to keep track of Clients, Centers, Groups, Loan Account, Savings Account, etc. I am the Open source contributor for the Android Client application developed by Mifos. Sent 20+ PR for introducing new
+features and fixing various bugs in application.
+external_url: https://github.com/openMF/android-client
 ---
