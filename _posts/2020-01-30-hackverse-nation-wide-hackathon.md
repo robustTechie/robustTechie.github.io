@@ -1,5 +1,5 @@
 ---
-title: Hackathon- 24 Hour Nation wide Hackathon
+title: Hackverse - 24 Hour Nation wide Hackathon
 date:   2020-01-26 18:01:35 +0300 
 tags:   [nitk, devfolio, hackathon, blog, matic]
 image: assets/img/Hackverse.jpg
@@ -18,7 +18,7 @@ description: HackVerse serves as a platform to encourage enthusiastic minds to b
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He also talked about different tech things like Fintech, AI, cloud computing, dockers, fold, postman, etc. There are also some other talks upon Elastic, digital ocean, Wellsfargo, Matic where they talked about various open-source platforms like Kibana(java), elastic search(node js), Beats( Golang ), Logstash (java).    
 ![]({{site.baseurl}}/assets/img/hackverse3.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talking about our problem set in the hackathon, we planned to make CrimsonLychee, it will boost your current mood. Whether you are happy, sad, angry, surprised, it will present you with quotes, videos and posts that will improve your mood to a great extent. This application uses emotion recognition to predict the emotion of the user by scanning their face.    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talking about our problem set in the hackathon, we planned to make Moodify, it will boost your current mood. Whether you are happy, sad, angry, surprised, it will present you with quotes, videos and posts that will improve your mood to a great extent. This application uses emotion recognition to predict the emotion of the user by scanning their face.    
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This two-day hackathon gave me so much experience as it taught me how to work in a team, a time limit in a hackathon forced me to distill the visionary concepts down to actionable solutions, it built a bridge to the developer community. It has some tracks like Blockchain, AI-ML, Algorithms, FinTech, Future Mobility, AR-VR, Computer Vision, Open Innovation. Here, I got four T-shirts (Jet Brains, Matic, Devfolio, NITK Hackverse) and some schwag, thanks to Hackverse, Matic, Devfolio, Jet Brains, etc.  
 ![]({{site.baseurl}}/assets/img/Hackverse6.jpeg)
@@ -28,7 +28,7 @@ description: HackVerse serves as a platform to encourage enthusiastic minds to b
 ### About Project
 
 <p align="center">
-	<a href= "https://github.com/AwesomeFruitSalad/CrimsonLychee" title="Project link" ><img src="{{site.baseurl}}/assets/img/crimsonLychee.jpg"/></a>
+	<a href= "https://github.com/robustTechie/Moodify" title="Project link" ><img src="{{site.baseurl}}/assets/img/crimsonLychee.jpg"/></a>
 </p>
 
 #### <u>What is emotion recognition?</u>
