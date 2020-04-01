@@ -1,13 +1,19 @@
 ## Welcome to my personal website or blog
 
 Fork to use this theme.
+***
 
-
-Main page 
+**Main page** 
 ![](/screenshot/main.png)
 
-Blog page
+
+***
+**Blog page**
 ![](/screenshot/blog.png)
 
-Project page
+
+***
+**Project page**
 ![](/screenshot/project.png) 
+
+***
