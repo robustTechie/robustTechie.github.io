@@ -7,7 +7,7 @@ baseurl             : ""                     # Change to empty quotes if you are
 repository          : robustTechie.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : robustTechie/portfolYOU
 
-disqus: https-robusttechie-github-io
+disqus: robusttechie-github-io
 ### Plugins ###
 plugins:
   - jemoji
@@ -64,7 +64,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
 
 
 ### Exclude from processing ###
