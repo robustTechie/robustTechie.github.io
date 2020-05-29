@@ -7,18 +7,17 @@
 -->
 
 <html lang="en" class="h-100">
-
-<head>
+<body class="d-flex flex-column h-100">
+  <head>
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>Shashank Priyadarshi</title>
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
   <!-- Font Awesome CDN -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
 
   <!-- Bootstrap CSS CDN -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -32,8 +31,6 @@
 </head>
 
 
-<body class="d-flex flex-column h-100">
-
   <main class="flex-shrink-0 container mt-5">
   <nav class="navbar navbar-expand-lg navbar-light">
 
@@ -44,9 +41,9 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/projects/">Projects</a>
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link active" href="/blog/">Blog</a>
 
-      <a class="nav-item nav-link active" href="/blog/">Blog</a>
+      <a class="nav-item nav-link " href="/projects/">Projects</a>
 
       <a class="nav-item nav-link " href="/about/">About</a>
 
@@ -147,6 +144,22 @@
 
 
 
+
+<div class="pt-5">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname = 'robusttechie-github-io';
+    (function() {
+      var disqus = document.createElement('script');
+      disqus.type = 'text/javascript';
+      disqus.async = true;
+      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
 </div>
   </main>
 
@@ -194,9 +207,7 @@
       <i class="fab fa-instagram fa-1x"></i>
     </a>
 
-</div>
-  
-</footer>
+</div></footer>
 
   <!-- GitHub Buttons -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>

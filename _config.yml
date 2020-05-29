@@ -1,25 +1,26 @@
 ### Site Settings ###
-title               : Shashank Priyadarshi
-description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces" <br> <br> Android Developer <br>Open source enthusiast <br> <a href = "https://www.amrita.edu/"> Student at Amrita Vishwa Vidyapeetham</a> <br>  <a href="https://amfoss.in/" title = "amFOSS"> Member at amFOSS</a> <br> <a href="https://robusttechie.github.io/docs/cv.pdf" title="Open my CV">Check out my CV</a>
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : robustTechie.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : robustTechie/portfolYOU
+title       : Shashank Priyadarshi
+keywords    : Topics in Devops, Android, bioinformatics, and Space Exploration. 
+description : >-
+              "I turn coffee :coffee: into code,
+              use tabs over spaces" <br> <br> Android Developer <br>Open source enthusiast <br> <a href = "https://www.amrita.edu/"> Student at Amrita Vishwa Vidyapeetham</a> <br>  <a href="https://amfoss.in/" title = "amFOSS"> Member at amFOSS</a> <br> <a href="https://robusttechie.github.io/docs/cv.pdf" title="Open my CV">Check out my CV</a> 
+baseurl     : ""     
+repository  : robustTechie.github.io
+remote_theme: robustTechie/portfolYOU
 
-disqus: robusttechie-github-io
+
+
 ### Plugins ###
 plugins:
   - jemoji
-
+  - jekyll-sitemap
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
- 
-
+  
 ### Author Info ###
 author:
   name              : Shashank Priyadarshi
@@ -44,18 +45,23 @@ author:
 # vimeo             : your_username
 # youtube           : your_channel_name
 
+### Disqus ###
+disqus: robusttechie-github-io
+
+### Analytics ###
+analytics:
+  enabled: fales  # Set false to disable analytics feature
+  google:
+    tracking_id: UA-163302221-1 # your google analytics tracking-id
 
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
-                              
-
 
 ### Defaults for collections ###
 defaults:
@@ -69,7 +75,6 @@ defaults:
       type: "posts"
     values:
       comments: true
-
 
 ### Exclude from processing ###
 exclude:
