@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Thinking about data
-date:   2020-02-02 23:50:35 +0300
+date:   2020-07-15 17:00:35 +0300
 style: fill
 color: success
 image:  'assets/img/whatIsPulsar.jpg'
@@ -45,5 +45,5 @@ To calculate the mean stack we just take the mean of every pixel in the image an
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So what happens when we do this stacking? We end up with an image like this, that shows a clear detection in the central few pixels. It may not look too impressive, but let's take a step back and think about what we're seeing here. We took a large set of images for which we could not detect any individual pulsars. When we lined the images up so all of the undetected pulsars are located in the center of the image, and then calculate the median across all of the images, we can see a detection.   
 ![]({{site.baseurl}}/assets/img/imagestack3.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some useful libraries in python are mathpyplot for plotting, astropy for FITS image processsing, and numoy for efficient algorithm and memory assignment.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some useful libraries in python are mathpyplot for plotting, astropy for FITS image processsing, and numpy for efficient algorithm and memory assignment.
 
