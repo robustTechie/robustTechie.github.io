@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Part 1: Neural Networks and Deep Learning
 date:   2021-04-27 17:00:35 +0300
 style: fill
