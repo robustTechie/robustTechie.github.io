@@ -1,11 +1,11 @@
 ---
 title:  Part 1: Neural Networks and Deep Learning
 date:   2021-04-27 17:00:35 +0300
+tags:   [deep-learning, AI, neural-network, ML, data, statistics, maths]
+image:  'assets/img/dl_1.jpg'
 style: fill
 color: danger
-image:  'assets/img/dl_1.jpg'
 description: Introduction to Deep Learning and Neural Networks
-tags:   [deep-learning, AI, neural-network, ML, data, statistics, maths]
 ---
 
 ## Why Deep Learning -
