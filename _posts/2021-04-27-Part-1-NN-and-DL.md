@@ -3,7 +3,7 @@ layout: post
 title:  Part 1: Neural Networks and Deep Learning
 date:   2021-04-27 17:00:35 +0300
 style: fill
-color: dark
+color: danger
 image:  'assets/img/dl_1.jpg'
 description: Introduction to Deep Learning and Neural Networks
 tags:   [deep-learning, AI, neural-network, ML, data, statistics, maths]
@@ -14,8 +14,8 @@ In the present era, as we know the whole game is changed, now if you search for 
 
 Basically, with the help of Artificial Intelligence they changed the game as electricity transformed our society 100 years ago, they changed the way things were previously. Also during this pending, we saw a lot of initiatives with various tech startups who used Deep Learning for providing some good solutions to various day-to-day problems which gave a rise to EdTech, HealthTech Startups.  
 
-Basically, with the help of Artificial Intelligence they changed the game as electricity transformed our society 100 years ago, they changed the way things were previously. Also during this pending, we saw a lot of initiatives with various tech startups who used Deep Learning for providing some good solutions to various day-to-day problems which gave a rise to EdTech, HealthTech Startups.   
----
+Basically, with the help of Artificial Intelligence they changed the game as electricity transformed our society 100 years ago, they changed the way things were previously. Also during this pending, we saw a lot of initiatives with various tech startups who used Deep Learning for providing some good [solutions](https://analyticsindiamag.com/11-startups-in-india-using-ai-and-robotics-to-fight-covid-19/) to various day-to-day problems which gave a rise to EdTech, HealthTech Startups.   
+
 ![]({{site.baseurl}}/assets/img/mind_nn.jpeg)   
 ## What is Neural Network - 
 Generally, by the term Deep Learning, we mean training a Neural Network(shallow or deep). So for understanding what Neural Network is let's start with some examples. Assume that we want to convert temperature from degree C to degree Fahrenheit and we don't the actual formula which is -  F = (9/5)*C + 32   
