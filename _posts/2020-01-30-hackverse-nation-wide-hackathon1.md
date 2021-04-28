@@ -1,61 +1,46 @@
 ---
-title: Hackverse - 24 Hour Nation wide Hackathon
-date:   2020-01-26 18:01:35 +0300 
-tags:   [nitk, devfolio, hackathon, blog, matic]
-image: assets/img/Hackverse.jpg
+title: Part 1 - Neural Networks and Deep Learning
+date:   2021-04-27 17:00:35 +0300
+tags:   [deep-learning, AI, neural-network, ML, data, statistics, maths]
+image: assets/img/dl_1.jpg
 style: fill
 color: danger
-description: HackVerse serves as a platform to encourage enthusiastic minds to brainstorm on solutions for challenging issues from all over India.
+description: Introduction to Deep Learning and Neural Networks
 ---
 
-## What is Hackverse
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HackVerse serves as a platform to encourage enthusiastic minds to brainstorm on solutions for challenging issues from all over India. The unified motive of gathering all like-minded hackers to our alma mater, is what led to the creation of the idea in NITK Surathkal, the first of its kind. We’ll provide a platform for innovations, where developers can test and showcase their potential to the best of their abilities. The hackathon will also have keynotes & workshops from executives from the industry. Click here to know more about [Hackverse](https://hackverse.nitk.ac.in/blog/)
+## Why Deep Learning -
+In the present era, as we know the whole game is changed, now if you search for a product on some e-commerce website then it fills all your mobile phone with ads related to that product. Not just this Tesla is trending now, WHY? It's because of their self-driving cars. Now you can fill your home with all those smart devices, so what just talk to them :P   
 
+Basically, with the help of Artificial Intelligence they changed the game as electricity transformed our society 100 years ago, they changed the way things were previously. Also during this pending, we saw a lot of initiatives with various tech startups who used Deep Learning for providing some good solutions to various day-to-day problems which gave a rise to EdTech, HealthTech Startups.  
 
-### Experience
-![]({{site.baseurl}}/assets/img/hackverse2.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attended Hackverse hackathon at NIT Surathkal. This was my first hackathon which gave me so much experience. The conference about the blockchain, dockers, Kubernetes is wonderful. Also, the talk given by Dr. Diwakar Kamath ( Google cloud India director) was very enthusiastic, which tells us about what the current world needs.    
+Basically, with the help of Artificial Intelligence they changed the game as electricity transformed our society 100 years ago, they changed the way things were previously. Also during this pending, we saw a lot of initiatives with various tech startups who used Deep Learning for providing some good [solutions](https://analyticsindiamag.com/11-startups-in-india-using-ai-and-robotics-to-fight-covid-19/) to various day-to-day problems which gave a rise to EdTech, HealthTech Startups.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He also talked about different tech things like Fintech, AI, cloud computing, dockers, fold, postman, etc. There are also some other talks upon Elastic, digital ocean, Wellsfargo, Matic where they talked about various open-source platforms like Kibana(java), elastic search(node js), Beats( Golang ), Logstash (java).    
-![]({{site.baseurl}}/assets/img/hackverse3.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talking about our problem set in the hackathon, we planned to make Moodify, it will boost your current mood. Whether you are happy, sad, angry, surprised, it will present you with quotes, videos and posts that will improve your mood to a great extent. This application uses emotion recognition to predict the emotion of the user by scanning their face.    
+![]({{site.baseurl}}/assets/img/mind_nn.jpeg)   
+## What is Neural Network - 
+Generally, by the term Deep Learning, we mean training a Neural Network(shallow or deep). So for understanding what Neural Network is let's start with some examples. Assume that we want to convert temperature from degree C to degree Fahrenheit and we don't the actual formula which is -  F = (9/5)*C + 32   
+Then it would be very hard for us to carry out this conversion. So now we'll use one magic called Machine Learning which will make the computer sit and think for the equation(y = mx + c) using input and output. So we can think of this problem something like this - 
+![]({{site.baseurl}}/assets/img/nn_1.png)
+So as we can see the actual equation is somewhat similar to y = mx + c. Let's some other example, more complex :)   
+Assume that we need to predict the taxi fare price based on some parameters like distance covered, no. of passengers, travel time, etc etc. So let's see the basic structure for that.  
+![]({{site.baseurl}}/assets/img/nn_2.png)
+Okay so the above image represents a deep neural network OR maybe something could happen similar to the above-mentioned C to F conversion. What if the taxi fare just depends total distance traveled. Let's plot a graph -  
+![]({{site.baseurl}}/assets/img/nn_3.png)
+Let's get into some terminologies :D
+- Here the Blue box, the Red Box, and the last circle (didn't put any colored box) are called layers i.e.
+    1. Blue box - Layer 1
+    2. Red Box - Layer 2
+    3. Last circle - Layer 3 or output layer
+    * Here Layer 1 and 2 are also called as Hidden Layer
+- Inputs are also called as Features and Outputs as Predictions.
+- Each circle is called as Neuron or Unit.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This two-day hackathon gave me so much experience as it taught me how to work in a team, a time limit in a hackathon forced me to distill the visionary concepts down to actionable solutions, it built a bridge to the developer community. It has some tracks like Blockchain, AI-ML, Algorithms, FinTech, Future Mobility, AR-VR, Computer Vision, Open Innovation. Here, I got four T-shirts (Jet Brains, Matic, Devfolio, NITK Hackverse) and some schwag, thanks to Hackverse, Matic, Devfolio, Jet Brains, etc.  
-![]({{site.baseurl}}/assets/img/Hackverse6.jpeg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the second day i.e. on 26th of January 2020, we celebrated republic day in the NITK campus. They organized Parade, Flag Hoisting, Dance, PT, etc. There was a huge crowd gathering in front of the ground. 
-![]({{site.baseurl}}/assets/img/Hackverse4.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team HackVerse made this experience best, they managed this event in the best way. They provided all the facilities like from providing food to providing shelter they have done in a great way. All thanks to the organizing [team](https://hackverse.nitk.ac.in/team/). Waiting for the next version of [HackVerse](https://hackverse.nitk.ac.in/).
-### About Project
+### Using Supervised Learning in Neural Networks -
+Let's take the first example where we made C to F converter. So here initially we have input and output based on that we found some linear equations and with the help of that equation and input we are going to find any output in the future. Similarly, let's the next example of predicting taxi fare there also we had some input and output, and then we found the neurons, and finally, with the help of neuron and input, we are going to find the taxi fare in the future. Similarly in various other cases like computer vision, let's say we have an image of a cat and dog so we can predict which one is can and which is not.   
 
-<p align="center">
-	<a href= "https://github.com/robustTechie/Moodify" title="Project link" ><img src="{{site.baseurl}}/assets/img/crimsonLychee.jpg"/></a>
-</p>
+So from all these examples, we can say that if we have input and output then based on that we can design the model, and then with the help of that model and input, we can find the output in the future. This is Supervised Learning. Generally, Supervised Learning maps the input to output with the help of example input-output pair the model.   
+### Why sudden rise in Deep Learning? 
+So why Deep Learning became popular is one more thing to discuss before diving more into neural networks. So in traditional ML algorithms, we use SVM, Logistic Regression, etc algorithms, here the main problem was on increasing the amount of data to some point the performance increases but then after that, it goes to a saturation point, and then no such significant increase in performance happens. So in traditional ML algorithms amount of data is not very important after a certain point in time.  
 
-#### <u>What is emotion recognition?</u>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emotive analytics is an interesting blend of psychology and technology . Though arguably reductive, many facial expression detection tools lump human emotion into 7 main categories: Joy, Sadness, Anger, Fear, Surprise, Contempt, and Disgust. With facial emotion detection , algorithms detect faces within a photo or video, and sense micro expressions by analyzing the relationship between points on the face, based on curated databases compiled in academic environments.  
+But now because of the evolution of Neural Networks, the amount of data is also an important parameter that has its impact on performance. For example, we are using a Large NN (NN with high numbers of layers) then they have a good relationship between the amount of Data and Performance, same goes with shallow NN (NN with less no. of the layer) but less as compared to Deep NNs.   
 
-#### <u>How it Works</u>
-* **Step1:** It will take the image of the user. The image will then be sent Affectiva API which will categorize the emotion of the user.  
-
-* **Step2:** After detecting the emotion of the user, the app will then display quotes, posts and YouTube videos to elate the mood of the user.  
-
-#### <u>Features</u>
-
-* Predict the emotion of the user.
-* Keep track of user's mood over time.
-* If the user is sad or depressed of a considerable period of time, this application will provide him the means to get help by connecting him with a therapist.
-* It also conatins the graphs so that user can keep track.
-
-#### <u>Technology Stack</u>
-
-* Android Studio
-* Java programming
-* YouTube API
-* Affectiva Face Detection API
-* Android NDK
-* Flask API 
-
----
-
-![]({{site.baseurl}}/assets/img/hackverse1.JPG)
-
+Also, if the amount of data is really less it completely depends on our algorithm i.e. maybe SVM could perform better as compared to NN or vice versa. But for the large amount of data DL is the best way to make predictions. So in DL we can tune performance with the help of Data, Computation, or Algorithms. Nowadays there are various like Jupyter Notebook, Google Colab, etc they provide GPU support to enable fast computation.  
