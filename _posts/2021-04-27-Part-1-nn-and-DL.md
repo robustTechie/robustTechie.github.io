@@ -1,10 +1,10 @@
 ---
-title: Part 1: Neural Networks and Deep Learning
-date:  2021-04-27 17:00:35 +0300
-tags:  [deep-learning, AI, neural-network, ML, data, statistics, maths]
+title: Part 1 - Neural Networks and Deep Learning
+date:   2021-04-27 17:00:35 +0300
+tags:   [deep-learning, AI, neural-network, ML, data, statistics, maths]
 image: assets/img/dl_1.jpg
 style: fill
-color: danger
+color: dark
 description: Introduction to Deep Learning and Neural Networks
 ---
 
@@ -44,5 +44,3 @@ So why Deep Learning became popular is one more thing to discuss before diving m
 But now because of the evolution of Neural Networks, the amount of data is also an important parameter that has its impact on performance. For example, we are using a Large NN (NN with high numbers of layers) then they have a good relationship between the amount of Data and Performance, same goes with shallow NN (NN with less no. of the layer) but less as compared to Deep NNs.   
 
 Also, if the amount of data is really less it completely depends on our algorithm i.e. maybe SVM could perform better as compared to NN or vice versa. But for the large amount of data DL is the best way to make predictions. So in DL we can tune performance with the help of Data, Computation, or Algorithms. Nowadays there are various like Jupyter Notebook, Google Colab, etc they provide GPU support to enable fast computation.  
-
----
