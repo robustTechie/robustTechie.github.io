@@ -4,8 +4,8 @@ keywords    : Topics in Devops, Android, bioinformatics, and Space Exploration.
 description : >-
               :atom_symbol: An electron in a Cosmos :atom_symbol:  <br> <br> Android Developer <br>Open source enthusiast <br> <a href = "https://www.amrita.edu/"> Student at Amrita Vishwa Vidyapeetham</a> <br>  <a href="https://amfoss.in/" title = "amFOSS"> Member at amFOSS</a> <br> <a href="https://robusttechie.github.io/docs/cv.pdf" title="Open my CV">Check out my CV</a> 
 baseurl     : ""     
-repository  : robustTechie.github.io
-remote_theme: robustTechie/portfolYOU
+repository  : iamsh4shank.github.io
+remote_theme: iamsh4shank/portfolYOU
 
 
 
