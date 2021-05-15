@@ -10,7 +10,7 @@ image: assets/profileimg1.jpg
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-Seeking a position in the field of Computer Science where I can utilize my skills to further work to-wards personal and rofessional development and contribute towards the prosperity of the organization. Highly motivated and eager to learn new things.<br>
+Seeking a position in the field of Computer Science where I can utilize my skills to further work towards personal and professional development and contribute towards the prosperity of the organization. Highly motivated and eager to learn new things.<br>
 <br>
 
 <div class="row">
