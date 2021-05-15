@@ -354,6 +354,8 @@ body { font-family: "Poppins", sans-serif; }
 
 .skill-bar.skill-bar-warning { background: #ffc107; }
 
+.skill-bar.skill-bar-yellow { background: #f1ff28; }
+
 .skill-bar.skill-bar-danger { background: #dc3545; }
 
 .skill-bar.skill-bar-light { background: #f8f9fa; }

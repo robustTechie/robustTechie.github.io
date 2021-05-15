@@ -4,12 +4,13 @@ date:   2021-05-15 18:01:35 +0300
 tags:   [deep-learning, AI, neural-network, Data, Maths]
 image: assets/img/nn_part_2.jpeg
 style: fill
-color: 1769ff
+color: yellow
 description: Let's dive basic ML problem classification and simple Neural Network
 ---
 
 Let's start our basic discussion from classificaiton of Deep Learning and Machine Learning on the basis of various learning algorithm.
 
+![]({{site.baseurl}}/assets/img/nn_part_2.jpeg)   
 ## What is Machine Learning
 ML basically provides a computation algorithm for making machines take decisions automatically i.e. they will take decisions without explicitly programming them. It is like machines observe a pattern and attempt to imitate it in some way.
 
