@@ -8,7 +8,9 @@ color: danger
 description: Open source contributor to the client application for the field officers. I introduced new features related to GIS support, notification integration, KYC/on-boarding feature, and other minor features which made it to upgrade to its version 7.
 ---
 
-![]({{site.baseurl}}/assets/img/21_1.png)   
+<div align="center"><img src="https://user-images.githubusercontent.com/20596763/91049695-2ff0f180-e63b-11ea-858e-166706eac223.png" width=600/>
+<h1> GSoC2020 work summary</h1>
+</div>
 
 **Organisation:** The Mifos Initiative
 
