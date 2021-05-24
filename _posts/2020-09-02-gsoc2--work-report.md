@@ -5,18 +5,14 @@ tags:   [GSoC, Android Developement, Java, Kotlin]
 image: assets/img/nn_part_2.jpeg
 style: fill
 color: danger
-description: Android Field operation application based on Mifos X is a robust core banking platform that is developed for field officers using which they process transactions, keep track of their client’s data, center records, group details, different types of accounts (loan, savings and recurring) of the client, run reports of clients, etc.
+description: Open source contributor to the client application for the field officers. I introduced new features related to GIS support, notification integration, KYC/on-boarding feature, and other minor features which made it to upgrade to its version 7.
 ---
 
-**Name:** Shashank Priyadarshi
-
-[GitHub](https://github.com/robustTechie) | [LinkedIn](https://www.linkedin.com/in/robusttechie/) | [Email](mailto:s.priyadarshi629@gmail.com)
+![]({{site.baseurl}}/assets/img/21_1.png)   
 
 **Organisation:** The Mifos Initiative
 
 **Project Name:** Android Field Operations App Version 7
-
-**Mentor:** [Abhilash Gunasegaran](https://www.linkedin.com/in/abhilash-g-55160a139/) and [Tarun Mudgal](https://www.linkedin.com/in/tarunmudgal/)
 
 **Project GitHub repository link:** [master branch](https://github.com/openMF/android-client/tree/master)
 
@@ -170,8 +166,5 @@ There is no proper workflow of GIS that is developed yet, as of now it is used f
 <p align="justify"> 
 I had a great experience throughout this three-month-long program. The community(<a href = "https://mifos.org/"> The Mifos Initiative </a>) and my mentors (<a href = "https://www.linkedin.com/in/abhilash-g-55160a139/"> Abhilash Gunasegaran </a> and <a href = "https://www.linkedin.com/in/tarunmudgal/"> Tarun Mudgal</a>) were very supportive in this three-month-long journey.  I also want to thanks Ed Cable for his great support. The weekly check-ins were awesome, it provided me a good community bonding chance and also helped me to solve some problems which I faced in between. GSoC helped me a lot to learn and grow in a lot of aspects. I am looking forward to contributing to this organization in the future and would also like to help the new contributors to start their contributions in the community.
 </p>
-
-
-![]({{site.baseurl}}/assets/img/3_8.jpg)   
 
 
