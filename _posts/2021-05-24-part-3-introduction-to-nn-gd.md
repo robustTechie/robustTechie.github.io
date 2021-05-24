@@ -4,7 +4,7 @@ date:   2021-05-24 18:01:35 +0300
 tags:   [deep-learning, AI, gradient descent, neural-network, Data, Maths]
 image: assets/img/nn_part_2.jpeg
 style: fill
-color: dark
+color: warning
 description: Let's dive into gradient descent and learn about forward propagation
 ---
 

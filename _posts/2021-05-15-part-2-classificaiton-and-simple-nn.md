@@ -4,7 +4,7 @@ date:   2021-05-15 18:01:35 +0300
 tags:   [deep-learning, AI, neural-network, Data, Maths]
 image: assets/img/nn_part_2.jpeg
 style: fill
-color: warning
+color: secondary
 description: Let's dive basic ML problem classification and simple Neural Network
 ---
 
