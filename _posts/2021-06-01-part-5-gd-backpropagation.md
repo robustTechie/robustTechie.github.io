@@ -17,7 +17,6 @@ Now it's time to dive deeper and see how deep NN works.
 Let's assume you are some other country and you don't know about the street signals in that country, so you planned to learn it through the actions of other people crossing the roads. So you might sit in a corner and observe the relation between the light combination and the people around you who are either walking or stopping based on the street lights.
 
 Let's say there are three light combinations so you need to decode the pattern and then it would be easy for you to cross the roads. Let's discuss some of your observations (Assume if ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) means OFF and ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) means ON)
-![]({{site.baseurl}}/assets/img/nn_part2_8.png)
 
 |Observations|Inference|
 |--|--|
